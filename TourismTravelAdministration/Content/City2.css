@@ -1,0 +1,74 @@
+.florence_color {
+    background-color: rgb(252, 246, 249);
+}
+
+.textflorence {
+    color: rgb(90, 2, 2);
+    font-size: 130px;
+    position: absolute;
+    width: 100%;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: color 0.5s ease;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+    .textflorence:hover {
+        color: rgb(255, 221, 221);
+        font-size: 150px;
+    }
+
+.about-photo1 {
+    width: 28%;
+    height: auto;
+    margin: 9% 2%;
+}
+
+.paragraph {
+    width: 35%;
+    height: auto;
+    margin: 5% 5%;
+    padding: 1% 1%;
+    border: 4px solid rgb(252, 246, 249);
+    border-radius: 10px;
+    color: black;
+    font-size: 22px;
+}
+
+    .paragraph:hover {
+        border-color: rgb(144, 74, 113);
+        background-color: rgb(255, 241, 249);
+    }
+
+.magic {
+    text-align: center;
+    color: rgb(144, 74, 113);
+    font-size: 35px;
+}
+
+.placehead, .foodhead, .hotelhead {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.visit, .restaurants, .hotels {
+    width: 27%;
+    margin: 2% 3%;
+    padding: 1% 1%;
+    text-align: center;
+    border: 4px solid rgb(144, 74, 113);
+    border-radius: 10px;
+    background-color: rgb(255, 241, 249);
+}
+
+    .visit, .restaurants, .hotels p {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+.heading {
+    color: rgb(144, 74, 113);
+    font-size: 24px;
+    font-family: 'Agbalumo';
+}

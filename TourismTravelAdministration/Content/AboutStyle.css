@@ -1,0 +1,158 @@
+.who{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: whitesmoke;
+    color:rgb(241, 183, 76);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.we{
+    margin-right: 50px;
+    margin-left: 100px;
+    padding: 10px 10px;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    display:flex;
+    flex-wrap:wrap ;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.ourStory{
+
+    margin-right: 50px;
+    margin-left: 100px;
+    padding: 10px 10px;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    display:flex;
+    flex-wrap:wrap ;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+    
+}
+.awards{
+    
+    margin-right:50px;
+    margin-left: 100px;
+    padding: 10px 10px;
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    flex-wrap:wrap ;
+}
+.team{
+    margin: 50px 50px;
+    padding: 10px 10px;
+    font-size: 22px;
+    
+}
+.ceo{
+    
+    margin: 50px 100px;
+    padding: 10px 10px; 
+    width: 250px;
+    height: 100%;
+    float: left;
+    font-family:'Times New Roman', Times, serif;
+}
+.coo{
+    
+    margin: 50px 100px;
+    padding: 10px 10px; 
+    width: 250px;
+    height: 100%;
+    float: left;
+    font-family:'Times New Roman', Times, serif;
+}
+.cmo{
+    
+    margin: 50px 100px;
+    padding: 10px 10px; 
+    width: 250px;
+    height: 100%;
+    float: left;
+    font-family:'Times New Roman', Times, serif;
+}
+.cmo_photo{
+    width: 250px;
+    height: 335px;
+    border-radius: 20px;
+}
+.ceo_photo{
+    width: 250px;
+    height: 100%;
+    border-radius: 20px;
+}
+.coo_photo{
+    width: 250px;
+    height: 100%;
+    border-radius: 20px;
+}
+.video_container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    padding:1% 27%;
+}
+.video_container video{
+    width:100%;
+    height: auto;
+}
+
+.ready{
+    text-align: center;
+    font-family:'Agbalumo';
+    color:rgb(241, 183, 76);
+
+}
+.conclusion{
+    margin: 50px 100px;
+    padding: 10px 10px; 
+    font-size: 22px;
+    text-align: center;  
+    height:auto px;
+    font-family:'Times New Roman', Times, serif;
+}
+.head2, .head4{
+    color:rgb(241, 183, 76);
+    margin-left: 10%;
+    font-size: 22px;
+    
+}
+.head3{
+    color:rgb(241, 183, 76);
+    margin-left: 6%;
+    
+}
+.head1{
+    color:rgb(241, 183, 76);
+    margin-left: 10%;
+    font-size: 22px;
+}
+
+
+.workplace{
+max-width:50% ;
+max-height: 100%;
+
+}
+.award_team,.job{
+    max-width: 47%;
+    max-height: 100%;
+}
+.parag1,.parag2,.parag3{
+   
+    padding-right: 10px; 
+    width:600px;
+}
+
